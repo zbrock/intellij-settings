@@ -1,0 +1,89 @@
+<scheme name="Darcula copy" version="142" parent_scheme="Darcula">
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <attributes>
+    <option name="GO_FUNCTION_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="64ba58" />
+      </value>
+    </option>
+    <option name="GO_LABEL">
+      <value>
+        <option name="FOREGROUND" value="f6ef36" />
+      </value>
+    </option>
+    <option name="GO_LOCAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="ff9075" />
+      </value>
+    </option>
+    <option name="GO_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="b2c5ff" />
+      </value>
+    </option>
+    <option name="GO_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="6897bb" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GO_OPERATOR">
+      <value>
+        <option name="FOREGROUND" value="32beb9" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE_EXPORTED_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="c598dc" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE_EXPORTED_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="69bea3" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE_LOCAL_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="aa829a" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="559a84" />
+      </value>
+    </option>
+    <option name="GO_SCOPE_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="f197ff" />
+      </value>
+    </option>
+    <option name="GO_STRING">
+      <value>
+        <option name="FOREGROUND" value="d2ffc3" />
+      </value>
+    </option>
+    <option name="GO_STRUCT_EXPORTED_MEMBER">
+      <value>
+        <option name="FOREGROUND" value="eae159" />
+      </value>
+    </option>
+    <option name="GO_STRUCT_LOCAL_MEMBER">
+      <value>
+        <option name="FOREGROUND" value="d4cc51" />
+      </value>
+    </option>
+    <option name="JAVA_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+        <option name="BACKGROUND" value="2b2b2b" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
