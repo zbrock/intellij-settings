@@ -25,6 +25,11 @@
         <option name="FOREGROUND" value="b2c5ff" />
       </value>
     </option>
+    <option name="GO_METHOD_RECEIVER">
+      <value>
+        <option name="FOREGROUND" value="6c91c6" />
+      </value>
+    </option>
     <option name="GO_NUMBER">
       <value>
         <option name="FOREGROUND" value="6897bb" />
