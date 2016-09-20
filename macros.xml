@@ -5,5 +5,10 @@
       <action id="GoVetFileAction" />
       <action id="SaveAll" />
     </macro>
+    <macro name="save + goimports + govet">
+      <action id="GoImportsFileAction" />
+      <action id="GoVetFileAction" />
+      <action id="SaveAll" />
+    </macro>
   </component>
 </application>
