@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="File '[cwn] - .../js/admin/ui/inforad.jsx'" />
     <option name="defaultScopeName" value="File '[cwn] - .../js/admin/ui/inforad.jsx'" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '[cwn] - .../js/admin/ui/inforad.jsx'" />
     <recentFileMasks>
       <mask>*.properties</mask>
