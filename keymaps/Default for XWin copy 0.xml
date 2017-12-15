@@ -1,5 +1,5 @@
-<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
-  <action id="Macro.goimports+go vet+save">
+<keymap version="1" name="Default for XWin copy 0" parent="Default for XWin">
+  <action id="Macro.save + goimports + govet">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="SaveAll" />

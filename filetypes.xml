@@ -4,6 +4,7 @@
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="datas" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="b64" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
