@@ -1,12 +1,12 @@
 <scheme name="Darcula copy" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.25" />
   <metaInfo>
-    <property name="modified">2017-06-06T18:22:10</property>
+    <property name="modified">2018-03-05T09:49:00</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <attributes>
     <option name="FTL_PARENTHESES">
       <value />
@@ -80,6 +80,11 @@
     <option name="GO_EXPORTED_FUNCTION">
       <value>
         <option name="FOREGROUND" value="ffc66d" />
+      </value>
+    </option>
+    <option name="GO_EXPORTED_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="d3aa7c" />
       </value>
     </option>
     <option name="GO_FUNCTION_PARAMETER">
