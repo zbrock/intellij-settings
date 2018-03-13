@@ -1,7 +1,7 @@
 <scheme name="Darcula copy" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.25" />
   <metaInfo>
-    <property name="modified">2018-03-05T09:49:00</property>
+    <property name="modified">2018-03-13T13:54:45</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
@@ -122,6 +122,11 @@
     <option name="GO_LOCAL_FUNCTION">
       <value>
         <option name="FOREGROUND" value="ff9075" />
+      </value>
+    </option>
+    <option name="GO_LOCAL_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="fc96b4" />
       </value>
     </option>
     <option name="GO_LOCAL_VARIABLE">
